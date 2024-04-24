@@ -8,7 +8,7 @@ using System.Web.Http.Cors;
 
 namespace ApiAgrosmart.Controllers
 {
-
+    /*IIBARRA PRUERBAS 2024/04/24*/
     [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class EmpresasController : ApiController
     {
