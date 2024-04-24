@@ -1,0 +1,19 @@
+﻿[{
+    "id": "05",
+    "nombre": "Agrosmart5_Moctezuma_prueba_app",
+    "conexion": "data source=192.175.112.100;initial catalog=Agrosmart5_Moctezuma_prueba_app;persist security info=True;user id=sa;password=Inventumc762$;MultipleActiveResultSets=True;App=EntityFramework;"
+	
+  },
+  {
+    "id": "06",
+    "nombre": "AgroSmart_ValleAlto_APP",
+    "conexion": "data source=192.175.112.100;initial catalog=AgroSmart_ValleAlto_APP;persist security info=True;user id=sa;password=Inventumc762$;MultipleActiveResultSets=True;App=EntityFramework;"
+	
+  },
+  {
+    "id": "07",
+    "nombre": "PRINSA",
+    "conexion": "data source=192.175.112.100;initial catalog=AgroSmart_PRINSA;persist security info=True;user id=sa;password=Inventumc762$;MultipleActiveResultSets=True;App=EntityFramework;"
+	
+  }
+]
