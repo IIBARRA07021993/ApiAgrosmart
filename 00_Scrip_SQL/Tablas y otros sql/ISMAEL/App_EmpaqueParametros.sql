@@ -1,4 +1,4 @@
-CREATE TABLE dbo.App_EmpaqueParametros
+    CREATE TABLE dbo.App_EmpaqueParametros
 (
     c_codigo_par CHAR(3) NOT NULL,
     v_nombre_par VARCHAR(100) NOT NULL,
